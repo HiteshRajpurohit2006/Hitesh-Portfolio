@@ -2,7 +2,7 @@
 
 A minimal, responsive personal portfolio with project search/filter, light/dark mode and an AI chatbot.
 
-🌐 **Live website:** https://YOUR-PORTFOLIO.vercel.app
+🌐 **Live website:** https://hitesh-portfolio-wine.vercel.app/
 
 ## Technologies
 HTML, CSS, JavaScript, Vercel Serverless Function (Node.js), Groq API, Git, GitHub, Cursor AI
